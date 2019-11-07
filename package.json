@@ -15,7 +15,7 @@
     "noty": "^3.2.0-beta",
     "react": "16.1.1",
     "react-chartjs-2": "2.6.4",
-    "react-dom": "16.1.1",
+    "react-dom": "16.1.2",
     "react-github-ribbon": "^1.0.0",
     "react-hook-form": "^3.26.5",
     "react-router-dom": "4.2.2",
