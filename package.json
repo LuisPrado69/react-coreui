@@ -54,7 +54,7 @@
     "postcss-flexbugs-fixes": "3.2.0",
     "postcss-loader": "2.0.6",
     "promise": "8.0.1",
-    "react-dev-utils": "^4.2.1",
+    "react-dev-utils": "^11.0.4",
     "sass-loader": "^6.0.6",
     "source-map-loader": "^0.2.1",
     "style-loader": "0.18.2",
